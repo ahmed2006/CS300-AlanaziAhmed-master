@@ -1,0 +1,7 @@
+*.class
+*.ctxt
+*.*~
+doc
+/.project
+default.log
+defaultlog.txt
